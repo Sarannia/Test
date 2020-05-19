@@ -4,8 +4,6 @@ Action()
 	
 
 	lr_debug_message(LR_MSG_CLASS_BRIEF_LOG, "aeff");
-
-	
 	
 	return 0;
 }
